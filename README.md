@@ -4,8 +4,8 @@ open-source projects, always striving to expand my knowledge and skills in the t
 
 - 🌱 I’m currently learning cloud computing , devops , Artificial intelligence and machine learning 
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me https://github.com/Bilalk269/Bilalk269 
-                      https://www.linkedin.com/in/muhammad-bilal-khan-780905235
+- 📫 How to reach me https://github.com/Bilalk269/Bilalk269
+- Find me on linkedin : https://www.linkedin.com/in/muhammad-bilal-khan-780905235
 
 
 <!---
